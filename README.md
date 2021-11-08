@@ -5,7 +5,7 @@ purpose of this challenge was to create a key generator that randomized upper/lo
 range 8-128 to give us secure password
 
 ### live web application
-https://box-monkey.github.io/retrograde/
+https://box-monkey.github.io/Solar-Retrograde/
 
 ### screenshots
 ![retrograde](./scn1.png)
